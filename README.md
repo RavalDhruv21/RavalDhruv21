@@ -10,6 +10,7 @@ A developer building web and Python projects. I enjoy creating interactive UIs, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/dhruvraval21)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dhruvraval5289@email.com)
 
+
 ---
 
 ## 💻 Tech Stack:
@@ -22,14 +23,13 @@ A developer building web and Python projects. I enjoy creating interactive UIs, 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=RavalDhruv21&theme=dark&hide_border=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api?username=RavalDhruv21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Streak](https://streak-stats.demolab.com?user=RavalDhruv21&theme=dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RavalDhruv21&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RavalDhruv21&theme=dark&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavalDhruv21&theme=dark&hide_border=true&layout=compact)
 
 ---
 
